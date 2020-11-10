@@ -1,5 +1,5 @@
-# Awesome papers
+# Reading lists
 
-Group-sourced list of awesome readings based on the topics. 
+Group-sourced list of useful readings based on the topics. 
 
 - [Network science](network_science.md)
